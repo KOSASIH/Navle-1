@@ -1,5 +1,3 @@
-## Welcome to Navle Pages
-
 # Navle
 
 This directory is a brief example of a Vite/Vue.js site that can be deployed to Vercel with zero configuration.
